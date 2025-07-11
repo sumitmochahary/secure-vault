@@ -1,4 +1,4 @@
-package com.securevault.app.service;
+package com.securevault.app.security;
 
 import com.securevault.app.entity.User;
 import io.jsonwebtoken.Claims;

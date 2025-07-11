@@ -1,4 +1,4 @@
-package com.securevault.app.dto;
+package com.securevault.app.dto.request;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
